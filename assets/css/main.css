@@ -3921,7 +3921,9 @@
 		
 /* Added by Cole Motuliak */
 
-
+a.anoline {
+	text-decoration: none;
+}
 .cent {
     display: block;
     
